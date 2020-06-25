@@ -4,6 +4,8 @@ authors:
 - Justin Fagnani <justinfagnani@google.com>
 - Pavel Jbanov <pavelj@google.com>
 description: A client routing library for Dart
+environment:
+  sdk: '>=1.13.0 <=2.4.0'
 homepage: https://github.com/angular/route.dart
 dependencies:
   logging: any
